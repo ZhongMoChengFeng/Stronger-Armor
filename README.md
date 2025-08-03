@@ -6,11 +6,11 @@ The mod modifies mechanism of armor and armor toughness, and only consumes one d
 
 `sufferDamage` = `damage` * `baseArmor` / (`equivalentArmor` + `baseArmor`)
 
-The default value for baseArmor and baseToughness is 10.
+The default value for `baseArmor` and `baseToughness` is 10.
 
 ## Configuration file:
 
-```
+```toml
 #The armor value of equivalent to twice health
 #The Larger the value,the weaker the defense
 # Default: 10
