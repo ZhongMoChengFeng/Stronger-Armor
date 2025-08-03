@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.zmcf.strongerArmor.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "CombatRulesMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
