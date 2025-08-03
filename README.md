@@ -10,7 +10,7 @@ The default value for baseArmor and baseToughness is 10.
 
 ## Configuration file:
 
-···c
+···python
 #The armor value of equivalent to twice health
 #The Larger the value,the weaker the defense
 # Default: 10
